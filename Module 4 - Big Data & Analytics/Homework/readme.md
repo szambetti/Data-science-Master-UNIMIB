@@ -1,6 +1,6 @@
 Pagina per consegna homework scraping
 
-.py e .pyinb sono gli scraper
+.py e .ipynb sono gli scraper
 
 scaping_output sono i json di output scraping
 
