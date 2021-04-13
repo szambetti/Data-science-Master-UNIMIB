@@ -1,0 +1,1 @@
+This project generates word embedding, using gensim FastText library, and uses it to train LSTM model to recommend the top 3 keywords that match the abstract content of "machine learning" papers related of the last 10 years published on the Scopus website
